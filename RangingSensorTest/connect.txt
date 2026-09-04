@@ -1,0 +1,5 @@
+ESP32 to HC-SR04
+GND to GND
+3V3 to VCC
+IO32 to TRIG
+IO23 to ECHO
